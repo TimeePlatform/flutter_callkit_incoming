@@ -38,6 +38,7 @@ android {
 
         consumerProguardFiles 'consumer-rules.pro'
     }
+    namespace 'com.hiennv.flutter_callkit_incoming'
 }
 
 dependencies {
